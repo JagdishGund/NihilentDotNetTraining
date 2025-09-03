@@ -1,0 +1,15 @@
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day2\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day2\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day2\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfo.cs
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day2\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day2\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.sourcelink.json
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day2\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.exe
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day2\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.deps.json
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day2\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.runtimeconfig.json
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day2\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.dll
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day2\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.pdb
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day2\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.dll
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day2\MyConsoleApp\obj\Debug\net8.0\refint\MyConsoleApp.dll
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day2\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.pdb
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day2\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.genruntimeconfig.cache
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day2\MyConsoleApp\obj\Debug\net8.0\ref\MyConsoleApp.dll
