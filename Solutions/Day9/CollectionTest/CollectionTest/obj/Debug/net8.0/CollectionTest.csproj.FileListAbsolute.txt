@@ -1,0 +1,15 @@
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day9\CollectionTest\CollectionTest\bin\Debug\net8.0\CollectionTest.exe
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day9\CollectionTest\CollectionTest\bin\Debug\net8.0\CollectionTest.deps.json
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day9\CollectionTest\CollectionTest\bin\Debug\net8.0\CollectionTest.runtimeconfig.json
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day9\CollectionTest\CollectionTest\bin\Debug\net8.0\CollectionTest.dll
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day9\CollectionTest\CollectionTest\bin\Debug\net8.0\CollectionTest.pdb
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day9\CollectionTest\CollectionTest\obj\Debug\net8.0\CollectionTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day9\CollectionTest\CollectionTest\obj\Debug\net8.0\CollectionTest.AssemblyInfoInputs.cache
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day9\CollectionTest\CollectionTest\obj\Debug\net8.0\CollectionTest.AssemblyInfo.cs
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day9\CollectionTest\CollectionTest\obj\Debug\net8.0\CollectionTest.csproj.CoreCompileInputs.cache
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day9\CollectionTest\CollectionTest\obj\Debug\net8.0\CollectionTest.sourcelink.json
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day9\CollectionTest\CollectionTest\obj\Debug\net8.0\CollectionTest.dll
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day9\CollectionTest\CollectionTest\obj\Debug\net8.0\refint\CollectionTest.dll
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day9\CollectionTest\CollectionTest\obj\Debug\net8.0\CollectionTest.pdb
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day9\CollectionTest\CollectionTest\obj\Debug\net8.0\CollectionTest.genruntimeconfig.cache
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day9\CollectionTest\CollectionTest\obj\Debug\net8.0\ref\CollectionTest.dll

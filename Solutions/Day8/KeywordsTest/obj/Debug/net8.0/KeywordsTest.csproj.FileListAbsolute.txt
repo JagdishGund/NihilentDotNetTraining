@@ -1,0 +1,15 @@
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day8\KeywordsTest\obj\Debug\net8.0\KeywordsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day8\KeywordsTest\obj\Debug\net8.0\KeywordsTest.AssemblyInfoInputs.cache
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day8\KeywordsTest\obj\Debug\net8.0\KeywordsTest.AssemblyInfo.cs
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day8\KeywordsTest\obj\Debug\net8.0\KeywordsTest.csproj.CoreCompileInputs.cache
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day8\KeywordsTest\obj\Debug\net8.0\KeywordsTest.sourcelink.json
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day8\KeywordsTest\bin\Debug\net8.0\KeywordsTest.exe
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day8\KeywordsTest\bin\Debug\net8.0\KeywordsTest.deps.json
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day8\KeywordsTest\bin\Debug\net8.0\KeywordsTest.runtimeconfig.json
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day8\KeywordsTest\bin\Debug\net8.0\KeywordsTest.dll
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day8\KeywordsTest\bin\Debug\net8.0\KeywordsTest.pdb
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day8\KeywordsTest\obj\Debug\net8.0\KeywordsTest.dll
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day8\KeywordsTest\obj\Debug\net8.0\refint\KeywordsTest.dll
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day8\KeywordsTest\obj\Debug\net8.0\KeywordsTest.pdb
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day8\KeywordsTest\obj\Debug\net8.0\KeywordsTest.genruntimeconfig.cache
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day8\KeywordsTest\obj\Debug\net8.0\ref\KeywordsTest.dll
