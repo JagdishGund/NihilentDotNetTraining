@@ -9,7 +9,7 @@ namespace FileReadWrite.Controllers;
 
 [ApiController]
 [Route("[controller]")]
-public class ProductController : Controller
+public class ProductController : ControllerBase
 {
     private readonly ILogger<ProductController> _logger;
 

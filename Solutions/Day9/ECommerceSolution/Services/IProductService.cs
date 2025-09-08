@@ -1,0 +1,13 @@
+namespace Services
+{
+    using Entities;
+    using System.Collections.Generic;
+    public interface IProductService
+    {
+        IEnumerable<Product> GetAllProducts();
+        // Product GetProductById(int id);
+        Product AddProduct(Product product);
+        // void UpdateProduct(Product product);
+        // void DeleteProduct(int id);
+    }
+}

@@ -10,29 +10,27 @@ public class ProductRepository : IProductRepository
 {
     private readonly List<Product> _products = new List<Product>();
 
-    private static string filePath = File.ReadAllText("./App_Data/products.json");
+   // private static string filePath = File.ReadAllText("./App_Data/products.json");
     public ProductRepository()
     {
        
     }
     public IEnumerable<Product> GetAllProducts()
     {
+        string path = @"C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day9\WebApplication\FileReadWrite\App_Data\products.json";
 
- if (!File.Exists(filePath))
-        {
-            return new List<Product>();
-        }
-
-        string jsonData = File.ReadAllText(filePath);
-        return JsonSerializer.Deserialize<List<Product>>(jsonData) ?? new List<Product>();
+        string jsonStringFromFile = File.ReadAllText(path);
+        Console.WriteLine("File Data" + jsonStringFromFile);
+        List<Product>? productsFromFile = JsonSerializer.Deserialize<List<Product>>(jsonStringFromFile);
+        return productsFromFile;
 
     }
 
-      public static void SaveAllProducts(List<Product> products)
-        {
-            var jsonData = JsonSerializer.Serialize(products, new JsonSerializerOptions { WriteIndented = true });
-            File.WriteAllText(filePath, jsonData);
-        }
+    //   public static void SaveAllProducts(List<Product> products)
+    //     {
+    //         var jsonData = JsonSerializer.Serialize(products, new JsonSerializerOptions { WriteIndented = true });
+    //         File.WriteAllText(filePath, jsonData);
+    //     }
 
     // public Product GetProductById(int id)
     // {
