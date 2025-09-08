@@ -7,8 +7,8 @@ public interface IProductRepository
 
     IEnumerable<Product> GetAllProducts();
         Product AddProduct(Product product);
-        // Product GetProductById(int id);
+        Product GetProductById(int id);
     // void AddProduct(Product product);
-    // void UpdateProduct(Product product);
-    // void DeleteProduct(int id);
+    bool UpdateProduct(int id, Product prod);
+    bool DeleteProduct(int id);
 }

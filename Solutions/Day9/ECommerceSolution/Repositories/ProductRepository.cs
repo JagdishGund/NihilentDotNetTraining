@@ -31,41 +31,58 @@ public class ProductRepository : IProductRepository
     //         File.WriteAllText(filePath, jsonData);
     //     }
 
-    // public Product GetProductById(int id)
-    // {
-    //     return GetAllProducts().FirstOrDefault(p => p.Id == id);
-    // }
+    public Product GetProductById(int id)
+    {
+        return GetAllProducts().FirstOrDefault(p => p.Id == id);
+    }
 
    public Product AddProduct(Product product)
     {
+      var products = GetAllProducts().ToList();
+        product.Id = products.Any() ? products.Max(p => p.Id) + 1 : 1;
+        products.Add(product);
         product.Id = _products.Count + 1; // Simulate DB auto-increment
         _products.Add(product);
-        Console.WriteLine("Add" + product);
-        string jsonString = JsonSerializer.Serialize(product);
+        Console.WriteLine("Add" + products);
+        var jsonString = JsonSerializer.Serialize(products, new JsonSerializerOptions { WriteIndented = true });
         File.WriteAllText(path, jsonString);
         return product;
     }
 
-    // public void UpdateProduct(Product product)
-    // {
-    //     var products = GetAllProducts();
-    //         var index = products.FindIndex(p => p.Id == product.Id);
-    //         if (index != -1)
-    //         {
-    //             products[index] = product;
-    //             SaveAllProducts(products);
-    //         }
-    // }
+    public bool UpdateProduct(int id, Product updatedProduct)
+{
+    var products = GetAllProducts(); // read JSON file
+    var existingProduct = products.FirstOrDefault(p => p.Id == id);
 
-    // public void DeleteProduct(int id)
-    // {
-    
-    //     var products = GetAllProducts();
-    //         var product = products.FirstOrDefault(p => p.Id == id);
-    //         if (product != null)
-    //         {
-    //             products.Remove(product);
-    //             SaveAllProducts(products);
-    //         }
-    // }
+    if (existingProduct == null)
+        return false;
+
+    // Update fields
+    existingProduct.Title = updatedProduct.Title;
+    existingProduct.Price = updatedProduct.Price;
+    existingProduct.Description = updatedProduct.Description;
+
+    // Write back to file
+    var jsonString = JsonSerializer.Serialize(products, new JsonSerializerOptions { WriteIndented = true });
+    File.WriteAllText(path, jsonString);
+
+    return true;
+}
+
+    public bool DeleteProduct(int id)
+    {
+
+        var products = GetAllProducts().ToList();
+        Console.WriteLine("Delete" + products);
+        var product = products.FirstOrDefault(p => p.Id == id);
+        if (product == null)
+        {
+            return false;
+        }
+
+        products.Remove(product);
+        var jsonString = JsonSerializer.Serialize(products, new JsonSerializerOptions { WriteIndented = true });
+        File.WriteAllText(path, jsonString);
+        return true;       
+    }
 }
