@@ -1,0 +1,14 @@
+<diiv>
+    <h1>Customer Details</h1>
+
+     <ul></ul>
+        @foreach (var cust in Model)
+        {
+            <li>
+                <a asp-controller="Customers" asp-action="Details" asp-route-id="@cust.Id">
+                    @cust.Name - @cust.Phone
+                </a>
+            </li>
+        }
+    </ul>
+</diiv>

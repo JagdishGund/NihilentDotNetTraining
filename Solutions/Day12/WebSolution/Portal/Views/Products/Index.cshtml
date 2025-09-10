@@ -1,0 +1,14 @@
+<diiv>
+    <h1>Product Details</h1>
+
+     <ul></ul>
+        @foreach (var product in Model)
+        {
+            <li>
+                <a asp-controller="Products" asp-action="Details" asp-route-id="@product.Id">
+                    @product.Name - @product.Price.ToString("C")
+                </a>
+            </li>
+        }
+    </ul>
+</diiv>
