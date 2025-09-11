@@ -1,0 +1,16 @@
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day13\CompleteSolution\CatalogRepositories\obj\Debug\net8.0\CatalogRepositories.csproj.AssemblyReference.cache
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day13\CompleteSolution\CatalogRepositories\obj\Debug\net8.0\CatalogRepositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day13\CompleteSolution\CatalogRepositories\obj\Debug\net8.0\CatalogRepositories.AssemblyInfoInputs.cache
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day13\CompleteSolution\CatalogRepositories\obj\Debug\net8.0\CatalogRepositories.AssemblyInfo.cs
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day13\CompleteSolution\CatalogRepositories\obj\Debug\net8.0\CatalogRepositories.csproj.CoreCompileInputs.cache
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day13\CompleteSolution\CatalogRepositories\obj\Debug\net8.0\CatalogRepositories.sourcelink.json
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day13\CompleteSolution\CatalogRepositories\bin\Debug\net8.0\CatalogRepositories.deps.json
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day13\CompleteSolution\CatalogRepositories\bin\Debug\net8.0\CatalogRepositories.dll
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day13\CompleteSolution\CatalogRepositories\bin\Debug\net8.0\CatalogRepositories.pdb
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day13\CompleteSolution\CatalogRepositories\bin\Debug\net8.0\CatalogEntities.dll
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day13\CompleteSolution\CatalogRepositories\bin\Debug\net8.0\CatalogEntities.pdb
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day13\CompleteSolution\CatalogRepositories\obj\Debug\net8.0\CatalogR.00EE188B.Up2Date
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day13\CompleteSolution\CatalogRepositories\obj\Debug\net8.0\CatalogRepositories.dll
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day13\CompleteSolution\CatalogRepositories\obj\Debug\net8.0\refint\CatalogRepositories.dll
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day13\CompleteSolution\CatalogRepositories\obj\Debug\net8.0\CatalogRepositories.pdb
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day13\CompleteSolution\CatalogRepositories\obj\Debug\net8.0\ref\CatalogRepositories.dll

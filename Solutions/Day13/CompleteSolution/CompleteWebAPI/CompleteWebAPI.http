@@ -1,0 +1,6 @@
+@CompleteWebAPI_HostAddress = http://localhost:5267
+
+GET {{CompleteWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
