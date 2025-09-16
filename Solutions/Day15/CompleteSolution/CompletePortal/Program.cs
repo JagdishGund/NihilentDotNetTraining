@@ -1,5 +1,7 @@
 using CatalogServices;
 using CatalogRepositories;
+using CRMServices;
+using CRMRepositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -7,8 +9,11 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 // Register repository and service for DI
+
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddScoped<IProductService, ProductService>();
+builder.Services.AddScoped<ICustomerRepositories, CustomerRepositories>();
+builder.Services.AddScoped<ICustomerService, CustomerService>();
 
 var app = builder.Build();
 

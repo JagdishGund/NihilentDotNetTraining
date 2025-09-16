@@ -210,6 +210,9 @@
             "projectReferences": {
               "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day15\\CompleteSolution\\CatalogServices\\CatalogServices.csproj": {
                 "projectPath": "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day15\\CompleteSolution\\CatalogServices\\CatalogServices.csproj"
+              },
+              "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day15\\CompleteSolution\\CRMServices\\CRMServices.csproj": {
+                "projectPath": "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day15\\CompleteSolution\\CRMServices\\CRMServices.csproj"
               }
             }
           }
@@ -243,6 +246,188 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.413/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day15\\CompleteSolution\\CRMEntities\\CRMEntities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day15\\CompleteSolution\\CRMEntities\\CRMEntities.csproj",
+        "projectName": "CRMEntities",
+        "projectPath": "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day15\\CompleteSolution\\CRMEntities\\CRMEntities.csproj",
+        "packagesPath": "C:\\Users\\jagdish.gund\\.nuget\\packages\\",
+        "outputPath": "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day15\\CompleteSolution\\CRMEntities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jagdish.gund\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.413/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day15\\CompleteSolution\\CRMRepositories\\CRMRepositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day15\\CompleteSolution\\CRMRepositories\\CRMRepositories.csproj",
+        "projectName": "CRMRepositories",
+        "projectPath": "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day15\\CompleteSolution\\CRMRepositories\\CRMRepositories.csproj",
+        "packagesPath": "C:\\Users\\jagdish.gund\\.nuget\\packages\\",
+        "outputPath": "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day15\\CompleteSolution\\CRMRepositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jagdish.gund\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day15\\CompleteSolution\\CRMEntities\\CRMEntities.csproj": {
+                "projectPath": "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day15\\CompleteSolution\\CRMEntities\\CRMEntities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.413/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day15\\CompleteSolution\\CRMServices\\CRMServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day15\\CompleteSolution\\CRMServices\\CRMServices.csproj",
+        "projectName": "CRMServices",
+        "projectPath": "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day15\\CompleteSolution\\CRMServices\\CRMServices.csproj",
+        "packagesPath": "C:\\Users\\jagdish.gund\\.nuget\\packages\\",
+        "outputPath": "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day15\\CompleteSolution\\CRMServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jagdish.gund\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day15\\CompleteSolution\\CRMRepositories\\CRMRepositories.csproj": {
+                "projectPath": "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day15\\CompleteSolution\\CRMRepositories\\CRMRepositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

@@ -24,7 +24,14 @@ public class ProductsController : Controller
     [HttpGet]
     public IEnumerable<Product> Get()
     {
-       return _productService.GetAllProducts();
+        var pr = _productService.GetAllProducts();
+       
+foreach (var product in pr)
+{
+    Console.WriteLine($"Id: {product.Id}, Name: {product.Title}, Price: {product.Price}");
+}
+        return pr;
+        
     }
 
     [HttpGet("{id}")]

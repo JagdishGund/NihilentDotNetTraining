@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CatalogServices\CatalogServices.csproj" />
+    <ProjectReference Include="..\CRMServices\CRMServices.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

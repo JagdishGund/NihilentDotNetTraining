@@ -79,3 +79,9 @@ C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day15\Com
 C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day15\CompleteSolution\CompletePortal\obj\Debug\net8.0\CompletePortal.genruntimeconfig.cache
 C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day15\CompleteSolution\CompletePortal\obj\Debug\net8.0\ref\CompletePortal.dll
 C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day15\CompleteSolution\CompletePortal\bin\Debug\net8.0\Data\customers.json
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day15\CompleteSolution\CompletePortal\bin\Debug\net8.0\CRMEntities.dll
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day15\CompleteSolution\CompletePortal\bin\Debug\net8.0\CRMRepositories.dll
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day15\CompleteSolution\CompletePortal\bin\Debug\net8.0\CRMServices.dll
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day15\CompleteSolution\CompletePortal\bin\Debug\net8.0\CRMServices.pdb
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day15\CompleteSolution\CompletePortal\bin\Debug\net8.0\CRMEntities.pdb
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day15\CompleteSolution\CompletePortal\bin\Debug\net8.0\CRMRepositories.pdb

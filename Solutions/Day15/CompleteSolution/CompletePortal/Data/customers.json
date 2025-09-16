@@ -1,9 +1,1 @@
-[
-    {
-        "Id": 1,
-        "firstname": "Jagdish",
-        "lastname": "Gund",
-        "email": "jagdish.gund@nihilent.com",
-        "password": "Jagdish1993"
-    }
-]
+[{"Id":1,"FistName":null,"LastName":"Gund","Email":"jagdish.gund@nihilent.com","Password":"Jagdish1993"},{"Id":2,"FistName":null,"LastName":"Gund","Email":"jgund3@gmail.com","Password":"12345"},{"Id":3,"FistName":null,"LastName":"Gund","Email":"soham27325@gmail.com","Password":"2732025"},{"Id":4,"FistName":null,"LastName":"Gund","Email":"shri19@gmail.com","Password":"192023"},{"Id":5,"FistName":"Onkar","LastName":"Gund","Email":"onkar@gmail.com","Password":"12345"}]

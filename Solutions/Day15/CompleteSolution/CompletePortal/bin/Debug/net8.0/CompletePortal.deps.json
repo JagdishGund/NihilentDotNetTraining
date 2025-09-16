@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v8.0": {
       "CompletePortal/1.0.0": {
         "dependencies": {
+          "CRMServices": "1.0.0",
           "CatalogServices": "1.0.0"
         },
         "runtime": {
@@ -43,6 +44,36 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "CRMEntities/1.0.0": {
+        "runtime": {
+          "CRMEntities.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CRMRepositories/1.0.0": {
+        "dependencies": {
+          "CRMEntities": "1.0.0"
+        },
+        "runtime": {
+          "CRMRepositories.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CRMServices/1.0.0": {
+        "dependencies": {
+          "CRMRepositories": "1.0.0"
+        },
+        "runtime": {
+          "CRMServices.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -63,6 +94,21 @@
       "sha512": ""
     },
     "CatalogServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CRMEntities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CRMRepositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CRMServices/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

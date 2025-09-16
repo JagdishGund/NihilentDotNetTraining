@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YjXaWV7CKBdNgZwTzkmeUYmp4l8tqMiZmBKYNIZvXzg=",
+  "Hash": "St1F+TNYykillKhgzytM6zLK4rpdMf5uWZsV1bVwjHI=",
   "Source": "CompletePortal",
   "BasePath": "_content/CompletePortal",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day13\\CompleteSolution\\CompletePortal\\wwwroot\\images\\EAadhaar_2821410760002420220418112214_1609202521428.pdf",
+      "SourceId": "CompletePortal",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day13\\CompleteSolution\\CompletePortal\\wwwroot\\",
+      "BasePath": "_content/CompletePortal",
+      "RelativePath": "images/EAadhaar_2821410760002420220418112214_1609202521428.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\EAadhaar_2821410760002420220418112214_1609202521428.pdf"
     },
     {
       "Identity": "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day13\\CompleteSolution\\CompletePortal\\wwwroot\\images\\rose.jpg",

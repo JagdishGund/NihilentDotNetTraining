@@ -1,0 +1,12 @@
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day15\CompleteSolution\CRMEntities\bin\Debug\net8.0\CRMEntities.deps.json
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day15\CompleteSolution\CRMEntities\bin\Debug\net8.0\CRMEntities.dll
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day15\CompleteSolution\CRMEntities\bin\Debug\net8.0\CRMEntities.pdb
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day15\CompleteSolution\CRMEntities\obj\Debug\net8.0\CRMEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day15\CompleteSolution\CRMEntities\obj\Debug\net8.0\CRMEntities.AssemblyInfoInputs.cache
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day15\CompleteSolution\CRMEntities\obj\Debug\net8.0\CRMEntities.AssemblyInfo.cs
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day15\CompleteSolution\CRMEntities\obj\Debug\net8.0\CRMEntities.csproj.CoreCompileInputs.cache
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day15\CompleteSolution\CRMEntities\obj\Debug\net8.0\CRMEntities.sourcelink.json
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day15\CompleteSolution\CRMEntities\obj\Debug\net8.0\CRMEntities.dll
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day15\CompleteSolution\CRMEntities\obj\Debug\net8.0\refint\CRMEntities.dll
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day15\CompleteSolution\CRMEntities\obj\Debug\net8.0\CRMEntities.pdb
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day15\CompleteSolution\CRMEntities\obj\Debug\net8.0\ref\CRMEntities.dll
