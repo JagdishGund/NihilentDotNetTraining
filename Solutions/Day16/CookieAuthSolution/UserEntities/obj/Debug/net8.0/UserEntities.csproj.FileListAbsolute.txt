@@ -1,0 +1,12 @@
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day16\CookieAuthSolution\UserEntities\bin\Debug\net8.0\UserEntities.deps.json
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day16\CookieAuthSolution\UserEntities\bin\Debug\net8.0\UserEntities.dll
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day16\CookieAuthSolution\UserEntities\bin\Debug\net8.0\UserEntities.pdb
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day16\CookieAuthSolution\UserEntities\obj\Debug\net8.0\UserEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day16\CookieAuthSolution\UserEntities\obj\Debug\net8.0\UserEntities.AssemblyInfoInputs.cache
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day16\CookieAuthSolution\UserEntities\obj\Debug\net8.0\UserEntities.AssemblyInfo.cs
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day16\CookieAuthSolution\UserEntities\obj\Debug\net8.0\UserEntities.csproj.CoreCompileInputs.cache
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day16\CookieAuthSolution\UserEntities\obj\Debug\net8.0\UserEntities.sourcelink.json
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day16\CookieAuthSolution\UserEntities\obj\Debug\net8.0\UserEntities.dll
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day16\CookieAuthSolution\UserEntities\obj\Debug\net8.0\refint\UserEntities.dll
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day16\CookieAuthSolution\UserEntities\obj\Debug\net8.0\UserEntities.pdb
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day16\CookieAuthSolution\UserEntities\obj\Debug\net8.0\ref\UserEntities.dll

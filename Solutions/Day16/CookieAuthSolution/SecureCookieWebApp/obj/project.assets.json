@@ -1,0 +1,133 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "UserEntities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/UserEntities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UserEntities.dll": {}
+        }
+      },
+      "UserRepositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "UserEntities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UserRepositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UserRepositories.dll": {}
+        }
+      },
+      "UserServices/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "UserRepositories": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UserServices.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UserServices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UserEntities/1.0.0": {
+      "type": "project",
+      "path": "../UserEntities/UserEntities.csproj",
+      "msbuildProject": "../UserEntities/UserEntities.csproj"
+    },
+    "UserRepositories/1.0.0": {
+      "type": "project",
+      "path": "../UserRepositories/UserRepositories.csproj",
+      "msbuildProject": "../UserRepositories/UserRepositories.csproj"
+    },
+    "UserServices/1.0.0": {
+      "type": "project",
+      "path": "../UserServices/UserServices.csproj",
+      "msbuildProject": "../UserServices/UserServices.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "UserServices >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\jagdish.gund\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day16\\CookieAuthSolution\\SecureCookieWebApp\\SecureCookieWebApp.csproj",
+      "projectName": "SecureCookieWebApp",
+      "projectPath": "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day16\\CookieAuthSolution\\SecureCookieWebApp\\SecureCookieWebApp.csproj",
+      "packagesPath": "C:\\Users\\jagdish.gund\\.nuget\\packages\\",
+      "outputPath": "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day16\\CookieAuthSolution\\SecureCookieWebApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\jagdish.gund\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day16\\CookieAuthSolution\\UserServices\\UserServices.csproj": {
+              "projectPath": "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day16\\CookieAuthSolution\\UserServices\\UserServices.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.413/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
