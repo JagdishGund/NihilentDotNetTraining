@@ -4,7 +4,12 @@ using UserEntities;
 public class UserRepository: IUserRepository
 {
 
- public IEnumerable<User>? GetAllUsers()
+
+    public UserRepository()
+    {
+    
+     }
+    public IEnumerable<User>? GetAllUsers()
     {
         return JsonUserManager.LoadUsers();
     }

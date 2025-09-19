@@ -8,24 +8,19 @@ namespace SecureCookieWebApp.Controllers
 {
     public class AuthController : Controller
     {
-        private readonly UserService _userService;
+        private readonly IUserService _userService;
 
-        public AuthController(UserService userService)
+        public AuthController(IUserService userService)
         {
             _userService = userService;
         }
 
-        //Blocking Call
-        //Synchronous Call
         public IActionResult Login()
         {
-
-            //time consuming task logic
 
             return View();
         }
 
-        // TPL Library: Task Parallel Library
         
         [HttpPost]
         public async Task<IActionResult> Login(string email, string password)
@@ -34,7 +29,6 @@ namespace SecureCookieWebApp.Controllers
             
             if (user != null)
             {
-                // Create a claims identity
                 var claims = new List<Claim>
                     {
                         new Claim(ClaimTypes.Name, email)
@@ -45,7 +39,6 @@ namespace SecureCookieWebApp.Controllers
                                                         CookieAuthenticationDefaults.AuthenticationScheme);
                 var claimsPrincipal = new ClaimsPrincipal(claimsIdentity);
 
-                // Sign in the user
                await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme,
                                              claimsPrincipal);
 
