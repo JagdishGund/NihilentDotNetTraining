@@ -1,0 +1,8 @@
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day20\SecureWebApp\obj\Debug\net8.0\SecureWebApp.csproj.AssemblyReference.cache
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day20\SecureWebApp\obj\Debug\net8.0\SecureWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day20\SecureWebApp\obj\Debug\net8.0\SecureWebApp.AssemblyInfoInputs.cache
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day20\SecureWebApp\obj\Debug\net8.0\SecureWebApp.AssemblyInfo.cs
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day20\SecureWebApp\obj\Debug\net8.0\SecureWebApp.csproj.CoreCompileInputs.cache
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day20\SecureWebApp\obj\Debug\net8.0\SecureWebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day20\SecureWebApp\obj\Debug\net8.0\SecureWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day20\SecureWebApp\obj\Debug\net8.0\SecureWebApp.sourcelink.json
