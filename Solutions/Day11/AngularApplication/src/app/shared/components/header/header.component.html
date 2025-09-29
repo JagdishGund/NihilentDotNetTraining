@@ -1,0 +1,22 @@
+<nav class="navbar">
+  <div class="navbar-logo">
+    <a routerLink="/products">🛒 Online Shop</a>
+  </div>
+
+  <ul class="navbar-links">
+    <li><a routerLink="/products" routerLinkActive="active">Products</a></li>
+    <li><a routerLink="/cart" routerLinkActive="active">Cart</a></li>
+    <li><a routerLink="/orders" routerLinkActive="active">Orders</a></li>
+
+    <!-- Show Login/Register if NOT logged in -->
+    <ng-container *ngIf="!isLoggedIn(); else loggedIn">
+      <li><a routerLink="/auth/login" routerLinkActive="active">Login</a></li>
+      <li><a routerLink="/auth/register" routerLinkActive="active">Register</a></li>
+    </ng-container>
+
+    <!-- Show Logout if logged in -->
+    <ng-template #loggedIn>
+      <li><a href="#" (click)="logout()">Logout</a></li>
+    </ng-template>
+  </ul>
+</nav>
